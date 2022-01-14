@@ -20,3 +20,7 @@ A bash script to generate random number (self-algorithm)
   ./run.sh
   ```
 ### 💻 In Action:
+![image](https://user-images.githubusercontent.com/56017960/149475962-dde36232-1e7a-4bf0-9384-c3865ade4f12.png)
+
+### How it works?
+The timestamp is used to generate the random number.
